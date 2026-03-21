@@ -1,0 +1,5 @@
+node_modules/
+data/*.log
+data/email-log.json
+launchd/
+.DS_Store

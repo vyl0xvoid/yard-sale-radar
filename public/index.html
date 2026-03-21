@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Yard Sale Radar</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <section class="hero">
+        <p class="eyebrow">Yard Sale Radar</p>
+        <h1>Local sales, mapped and watchlisted for the weekend.</h1>
+        <p class="intro">
+          Track Craigslist, Facebook alert emails, and manually added local finds
+          in one place, with filters and alert previews for Ryan.
+        </p>
+      </section>
+
+      <section class="layout">
+        <aside class="sidebar">
+          <div class="panel">
+            <p class="label">Saved Leads</p>
+            <p class="note">Sales Ryan wants to hit.</p>
+            <div id="saved-list" class="list"></div>
+          </div>
+
+          <div class="panel">
+            <p class="label">Add a sale</p>
+            <form id="sale-form" class="stack">
+              <input name="title" type="text" placeholder="Sale title" required />
+              <input name="address" type="text" placeholder="Address or city" required />
+              <input name="saleDate" type="date" required />
+              <input name="saleTime" type="text" placeholder="8:00 AM - 1:00 PM" />
+              <input name="source" type="text" placeholder="facebook email / craigslist / manual" />
+              <input name="sourceUrl" type="url" placeholder="Original listing URL" />
+              <textarea name="description" rows="4" placeholder="Description, items, notes"></textarea>
+              <button type="submit">Save sale</button>
+            </form>
+            <p id="form-message" class="message"></p>
+          </div>
+
+          <div class="panel">
+            <p class="label">Filters</p>
+            <div class="stack">
+              <input id="search-input" type="text" placeholder="Search tags, neighborhoods, items" />
+              <select id="source-filter">
+                <option value="">All sources</option>
+                <option value="manual">Manual</option>
+                <option value="craigslist">Craigslist</option>
+                <option value="estatesales">EstateSales.net</option>
+                <option value="yardsalesearch">YardSaleSearch</option>
+                <option value="facebook">Facebook email</option>
+              </select>
+              <input id="date-filter" type="date" />
+            </div>
+          </div>
+
+          <div class="panel">
+            <p class="label">Alert preview</p>
+            <p class="note">This shows which sales would currently trigger Ryan's alert rules.</p>
+            <div id="alert-list" class="list"></div>
+          </div>
+
+          <div class="panel">
+            <p class="label">High Priority</p>
+            <p class="note">
+              Collector targets: lego, pokemon cards, comics, games, trading cards, retro games.
+            </p>
+            <div id="priority-list" class="list"></div>
+          </div>
+
+          <div class="panel">
+            <p class="label">Email ingestion</p>
+            <p class="note">
+              Designed for Facebook Marketplace keyword alerts and Craigslist saved-search emails.
+            </p>
+            <button id="poll-email-button" type="button">Test inbox pull</button>
+            <p id="email-message" class="message"></p>
+            <div id="email-log" class="list compact"></div>
+          </div>
+
+          <div class="panel">
+            <p class="label">Auto-collect (RSS)</p>
+            <p class="note">
+              Pulls from Craigslist, EstateSales.net, and YardSaleSearch. Runs 3x daily, or click now.
+            </p>
+            <button id="rss-button" type="button">Pull RSS feeds now</button>
+            <p id="rss-message" class="message"></p>
+            <button id="enrich-button" type="button" style="margin-top:0.5rem">Geocode missing pins</button>
+            <p id="enrich-message" class="message"></p>
+          </div>
+
+          <div class="panel">
+            <p class="label">Craigslist scrape (manual)</p>
+            <p class="note">
+              Opens Chrome via Playwright for deeper scraping, or use the bookmarklet from a Craigslist page you have open.
+            </p>
+            <button id="scrape-button" type="button">Run Playwright scrape</button>
+            <p id="scrape-message" class="message"></p>
+            <div class="stack">
+              <p class="note">Bookmarklet: run this from a Craigslist results page.</p>
+              <textarea id="bookmarklet-code" rows="6" readonly></textarea>
+            </div>
+          </div>
+        </aside>
+
+        <section class="content">
+          <div class="panel map-panel">
+            <div class="panel-head">
+              <p class="label">Map</p>
+              <p id="count-label" class="small"></p>
+            </div>
+            <div id="map"></div>
+          </div>
+
+          <div class="panel">
+            <div class="panel-head">
+              <p class="label">Saved sales</p>
+              <p class="small">Click a card or map pin for details</p>
+            </div>
+            <div id="sale-list" class="list"></div>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="/app.js"></script>
+  </body>
+  </html>

@@ -1,0 +1,359 @@
+:root {
+  color-scheme: dark;
+  --bg: #081018;
+  --panel: #102234;
+  --panel-alt: #15314a;
+  --border: rgba(255, 255, 255, 0.09);
+  --text: #edf4fb;
+  --muted: #a5bfd1;
+  --accent: #ffaf47;
+  --accent-2: #61b8ff;
+  --priority: #ff6b9d;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Georgia, "Times New Roman", serif;
+  background:
+    linear-gradient(rgba(8, 10, 26, 0.64), rgba(6, 7, 21, 0.82)),
+    url("/background.png") center center / cover no-repeat,
+    radial-gradient(circle at top left, rgba(255, 84, 180, 0.16), transparent 28%),
+    linear-gradient(180deg, #0b1723, #061019);
+  color: var(--text);
+  -webkit-text-size-adjust: 100%;
+}
+
+.page {
+  width: min(1400px, calc(100% - 1rem));
+  margin: 0 auto;
+  padding: 1.5rem 0 3rem;
+}
+
+.hero {
+  margin-bottom: 1.5rem;
+}
+
+.eyebrow,
+.label,
+.small {
+  margin: 0;
+  color: var(--muted);
+}
+
+.eyebrow,
+.label {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.78rem;
+}
+
+h1 {
+  margin: 0.4rem 0 0;
+  font-size: clamp(1.6rem, 5vw, 4rem);
+  line-height: 1;
+}
+
+.intro {
+  width: min(52rem, 100%);
+  margin: 0.8rem 0 0;
+  line-height: 1.6;
+  color: #d5e4ef;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 360px minmax(0, 1fr);
+  gap: 1rem;
+}
+
+.sidebar,
+.content {
+  display: grid;
+  gap: 1rem;
+  align-content: start;
+}
+
+.panel {
+  padding: 1rem;
+  border-radius: 1.2rem;
+  background: linear-gradient(180deg, rgba(20, 24, 58, 0.9), rgba(12, 20, 48, 0.9));
+  border: 1px solid var(--border);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
+}
+
+.panel-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: baseline;
+  margin-bottom: 0.9rem;
+}
+
+.stack {
+  display: grid;
+  gap: 0.7rem;
+}
+
+input,
+select,
+textarea,
+button {
+  font: inherit;
+  font-size: 16px; /* prevents iOS zoom on focus */
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  padding: 0.85rem 0.95rem;
+  border-radius: 0.9rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(0, 0, 0, 0.14);
+  color: var(--text);
+}
+
+button {
+  appearance: none;
+  border: 0;
+  padding: 0.9rem 1rem;
+  border-radius: 0.9rem;
+  background: linear-gradient(90deg, #ff8b2b, #ffd34d);
+  color: #1a1208;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.message,
+.note {
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+#map {
+  height: 560px;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.list {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.list.compact {
+  gap: 0.5rem;
+}
+
+.sale-card,
+.email-card {
+  padding: 0.9rem;
+  border-radius: 1rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.sale-card.priority {
+  border-color: var(--priority);
+  background: rgba(255, 107, 157, 0.08);
+}
+
+.sale-card.priority h3::before {
+  content: "\2605 ";
+  color: var(--priority);
+}
+
+.priority-badge {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  border-radius: 0.5rem;
+  background: var(--priority);
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  margin-top: 0.3rem;
+}
+
+.source-badge {
+  display: inline-block;
+  padding: 0.1rem 0.45rem;
+  border-radius: 0.4rem;
+  background: rgba(97, 184, 255, 0.15);
+  color: var(--accent-2);
+  font-size: 0.72rem;
+  margin-left: 0.3rem;
+}
+
+.sale-card h3,
+.email-card h3 {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+.sale-meta {
+  margin-top: 0.4rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.sale-card a,
+.email-card a {
+  color: var(--accent-2);
+}
+
+.date-group-label {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 0.5rem 0 0.2rem;
+  border-bottom: 1px solid rgba(255, 175, 71, 0.2);
+  margin-bottom: 0.2rem;
+}
+
+.expired-card {
+  opacity: 0.45;
+}
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: #112538;
+  color: var(--text);
+}
+
+/* Pin dot next to title */
+.pin-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 0.3rem;
+  vertical-align: middle;
+}
+
+.shape-label {
+  font-size: 0.65rem;
+  color: var(--muted);
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-left: 0.3rem;
+}
+
+/* Card states */
+.sale-card.unseen {
+  border-left: 3px solid #e74c3c;
+}
+
+.sale-card.seen {
+  border-left: 3px solid transparent;
+}
+
+.sale-card.saved-card {
+  border-color: #f1c40f;
+  background: rgba(241, 196, 15, 0.06);
+}
+
+/* Action buttons */
+.card-actions {
+  display: flex;
+  gap: 0.4rem;
+  margin-top: 0.5rem;
+}
+
+.card-actions button {
+  padding: 0.35rem 0.6rem;
+  font-size: 1rem;
+  border-radius: 0.6rem;
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--muted);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  cursor: pointer;
+  line-height: 1;
+}
+
+.card-actions button:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.btn-save.active {
+  color: #f1c40f;
+  background: rgba(241, 196, 15, 0.15);
+  border-color: rgba(241, 196, 15, 0.3);
+}
+
+.btn-dismiss:hover {
+  color: #e74c3c;
+  background: rgba(231, 76, 60, 0.15);
+}
+
+.btn-color:hover {
+  color: #9b59b6;
+}
+
+/* Color picker */
+.color-picker-wrap {
+  margin-top: 0.4rem;
+  gap: 0.3rem;
+  flex-wrap: wrap;
+}
+
+.color-picker {
+  display: flex;
+  gap: 0.35rem;
+}
+
+.color-dot {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  cursor: pointer;
+  padding: 0;
+}
+
+.color-dot:hover {
+  border-color: #fff;
+  transform: scale(1.2);
+}
+
+/* Mobile: map on top, then priority, then list */
+@media (max-width: 980px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+
+  .content {
+    order: -1;
+  }
+
+  #map {
+    height: 45vh;
+    min-height: 280px;
+  }
+
+  .page {
+    width: calc(100% - 0.5rem);
+    padding: 0.75rem 0 2rem;
+  }
+
+  h1 {
+    font-size: 1.4rem;
+  }
+
+  .intro {
+    font-size: 0.9rem;
+  }
+
+  .hero {
+    margin-bottom: 0.8rem;
+  }
+}

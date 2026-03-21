@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Yard Sale Radar</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <section class="hero">
+        <p class="eyebrow">Yard Sale Radar</p>
+        <h1>Local sales, mapped and watchlisted for the weekend.</h1>
+        <p class="intro">
+          Track Craigslist, EstateSales.net, and more in one place,
+          with filters and priority alerts for Ryan.
+        </p>
+        <p id="last-updated" class="small" style="margin-top:0.4rem"></p>
+      </section>
+
+      <section class="layout">
+        <aside class="sidebar">
+          <div class="panel">
+            <p class="label">Saved Leads</p>
+            <p class="note">Sales Ryan wants to hit.</p>
+            <div id="saved-list" class="list"></div>
+          </div>
+
+          <div class="panel">
+            <p class="label">Filters</p>
+            <div class="stack">
+              <input id="search-input" type="text" placeholder="Search tags, neighborhoods, items" />
+              <select id="source-filter">
+                <option value="">All sources</option>
+                <option value="craigslist">Craigslist</option>
+                <option value="estatesales">EstateSales.net</option>
+                <option value="yardsalesearch">YardSaleSearch</option>
+              </select>
+              <input id="date-filter" type="date" />
+            </div>
+          </div>
+
+          <div class="panel">
+            <p class="label">High Priority</p>
+            <p class="note">
+              Collector targets: lego, pokemon cards, comics, games, trading cards, retro games.
+            </p>
+            <div id="priority-list" class="list"></div>
+          </div>
+        </aside>
+
+        <section class="content">
+          <div class="panel map-panel">
+            <div class="panel-head">
+              <p class="label">Map</p>
+              <p id="count-label" class="small"></p>
+            </div>
+            <div id="map"></div>
+          </div>
+
+          <div class="panel">
+            <div class="panel-head">
+              <p class="label">All sales</p>
+              <p class="small">Click a card or map pin for details</p>
+            </div>
+            <div id="sale-list" class="list"></div>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="app.js"></script>
+  </body>
+</html>

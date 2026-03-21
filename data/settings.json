@@ -1,0 +1,54 @@
+{
+  "alertRules": {
+    "keywords": [
+      "yard sale",
+      "garage sale",
+      "estate sale",
+      "moving sale"
+    ],
+    "radiusMiles": 25,
+    "weekendOnly": true
+  },
+  "highPriorityRules": {
+    "keywords": [
+      "comic",
+      "comics",
+      "game",
+      "games",
+      "video game",
+      "video games",
+      "retro game",
+      "retro games",
+      "trading card",
+      "trading cards",
+      "card",
+      "cards",
+      "pokemon",
+      "pokemon cards",
+      "mtg",
+      "magic the gathering",
+      "yugioh",
+      "lego",
+      "legos",
+      "duplo"
+    ]
+  },
+  "emailIngestion": {
+    "enabled": false,
+    "host": "",
+    "port": 993,
+    "secure": true,
+    "user": "",
+    "password": "",
+    "mailbox": "INBOX",
+    "sourceLabelHints": {
+      "facebook": [
+        "facebook",
+        "marketplace"
+      ],
+      "craigslist": [
+        "craigslist"
+      ]
+    }
+  }
+}
