@@ -158,6 +158,27 @@ button {
   border: 1px solid rgba(255, 255, 255, 0.08);
 }
 
+.sale-card-inner {
+  display: flex;
+  gap: 0.8rem;
+}
+
+.sale-thumb-wrap {
+  flex-shrink: 0;
+}
+
+.sale-thumb {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 0.6rem;
+}
+
+.sale-card-content {
+  flex: 1;
+  min-width: 0;
+}
+
 .sale-card.priority {
   border-color: var(--priority);
   background: rgba(255, 107, 157, 0.08);

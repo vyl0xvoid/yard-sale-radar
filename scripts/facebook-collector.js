@@ -306,6 +306,13 @@ async function runCollector() {
       console.log(`[FB] ${decodeURIComponent(shortUrl)}: ${listings.length} results`);
 
       for (const listing of listings) {
+        // Update existing listings that are missing images
+        if (existingUrls.has(listing.sourceUrl) && listing.imageUrl) {
+          const existingSale = existing.find(s => s.sourceUrl === listing.sourceUrl);
+          if (existingSale && !existingSale.imageUrl) {
+            existingSale.imageUrl = listing.imageUrl;
+          }
+        }
         if (existingUrls.has(listing.sourceUrl)) continue;
         if (containsBlockedTerms(`${listing.title} ${listing.location}`)) continue;
 
@@ -330,6 +337,7 @@ async function runCollector() {
           highPriorityMatches: matches,
           status: "active",
           sourceType: "facebook",
+          imageUrl: listing.imageUrl || "",
           confidence: 0.6,
         };
 
@@ -345,10 +353,9 @@ async function runCollector() {
     await context.close().catch(() => {});
   }
 
-  if (imported > 0) {
-    const merged = [...allNew, ...existing];
-    saveJson(SALES_PATH, merged);
-  }
+  // Always save — might have updated images on existing listings
+  const merged = [...allNew, ...existing];
+  saveJson(SALES_PATH, merged);
 
   console.log(`[FB] Done. ${imported} new listing(s) imported.`);
   return imported;

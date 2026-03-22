@@ -178,17 +178,26 @@ function saleCard(sale, opts = {}) {
     <div class="color-picker-wrap" id="cp-${escapeId(sale.id)}" style="display:none">${colorPickerHtml(sale.id)}</div>
   `;
 
+  const imgHtml = sale.imageUrl
+    ? `<img src="${sale.imageUrl}" alt="" class="sale-thumb" loading="lazy" />`
+    : "";
+
   return `
     <article class="sale-card${priorityClass}${expiredClass}${savedClass}" data-sale-id="${escapeId(sale.id)}">
-      <h3>${pinDot} ${sale.title}${sourceBadge(sale)} <span class="shape-label">${shapeLabel}</span></h3>
-      <div class="sale-meta">
-        ${friendlyDate(sale.saleDate)}${sale.saleTime ? ` &bull; ${sale.saleTime}` : ""}${allDates ? `<br />All dates: ${allDates}` : ""}<br />
-        ${sale.locationName || sale.address || ""}${sale.distanceMiles != null ? ` &bull; ${sale.distanceMiles} mi` : ""}<br />
-        ${sale.description || ""}
+      <div class="sale-card-inner">
+        ${imgHtml ? `<div class="sale-thumb-wrap">${imgHtml}</div>` : ""}
+        <div class="sale-card-content">
+          <h3>${pinDot} ${sale.title}${sourceBadge(sale)} <span class="shape-label">${shapeLabel}</span></h3>
+          <div class="sale-meta">
+            ${friendlyDate(sale.saleDate)}${sale.saleTime ? ` &bull; ${sale.saleTime}` : ""}${allDates ? `<br />All dates: ${allDates}` : ""}<br />
+            ${sale.locationName || sale.address || ""}${sale.distanceMiles != null ? ` &bull; ${sale.distanceMiles} mi` : ""}<br />
+            ${sale.description || ""}
+          </div>
+          ${priorityBadge}
+          ${sale.sourceUrl && !(sale.sourceType || "").includes("facebook") ? `<p><a href="${sale.sourceUrl}" target="_blank" rel="noreferrer">View listing</a></p>` : ""}
+          ${actions}
+        </div>
       </div>
-      ${priorityBadge}
-      ${sale.sourceUrl && !(sale.sourceType || "").includes("facebook") ? `<p><a href="${sale.sourceUrl}" target="_blank" rel="noreferrer">View listing</a></p>` : ""}
-      ${actions}
     </article>
   `;
 }
