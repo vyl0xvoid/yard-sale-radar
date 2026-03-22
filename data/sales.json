@@ -7,8 +7,8 @@
     "description": "Free",
     "locationName": "Riverview, FL",
     "address": "Riverview, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.874329444015558,
+    "lng": -82.33389468690022,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.237Z",
@@ -19,7 +19,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-960865319616216",
@@ -29,8 +29,8 @@
     "description": "$2",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.944001096907282,
+    "lng": -82.46215312621554,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.237Z",
@@ -41,7 +41,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1102513058731615",
@@ -51,8 +51,8 @@
     "description": "Free",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.949490857946703,
+    "lng": -82.4628603812534,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -63,7 +63,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1443585220590509",
@@ -73,8 +73,8 @@
     "description": "$20",
     "locationName": "Seffner, FL",
     "address": "Seffner, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.985273183023633,
+    "lng": -82.27527469651433,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -85,7 +85,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1592172968739500",
@@ -95,8 +95,8 @@
     "description": "$1",
     "locationName": "Riverview, FL",
     "address": "Riverview, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.87398282243965,
+    "lng": -82.31659692113769,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -107,7 +107,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1602686764362969",
@@ -117,8 +117,8 @@
     "description": "Free",
     "locationName": "St Petersburg, FL",
     "address": "St Petersburg, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.773961065643388,
+    "lng": -82.65021053776303,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -129,7 +129,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1875795106402544",
@@ -139,8 +139,8 @@
     "description": "$5",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.94337610052166,
+    "lng": -82.46496502789734,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -151,7 +151,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-931799396140176",
@@ -161,8 +161,8 @@
     "description": "Free",
     "locationName": "St Petersburg, FL",
     "address": "St Petersburg, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.771675120792057,
+    "lng": -82.63895047639276,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -173,7 +173,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1470054268113802",
@@ -183,8 +183,8 @@
     "description": "Free",
     "locationName": "Valrico, FL",
     "address": "Valrico, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.937522174895147,
+    "lng": -82.22886726833345,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -195,7 +195,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1305846808066073",
@@ -205,8 +205,8 @@
     "description": "$5",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.941676240974232,
+    "lng": -82.46141236598513,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -217,7 +217,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2159122108235842",
@@ -227,8 +227,8 @@
     "description": "$100",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.94754588451858,
+    "lng": -82.458786505237,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -239,7 +239,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1832410067448960",
@@ -249,8 +249,8 @@
     "description": "$1",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.9543366118706,
+    "lng": -82.46308478102546,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -259,7 +259,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2009855906616902",
@@ -289,8 +289,8 @@
     "description": "$1",
     "locationName": "Gibsonton, FL",
     "address": "Gibsonton, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.840493903104633,
+    "lng": -82.39116149008731,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -301,7 +301,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1855658918443129",
@@ -311,8 +311,8 @@
     "description": "$1",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.950875941601417,
+    "lng": -82.46117521773097,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -323,7 +323,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-25478454985162725",
@@ -333,8 +333,8 @@
     "description": "$1",
     "locationName": "Temple Terrace, FL",
     "address": "Temple Terrace, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.04057137530907,
+    "lng": -82.39613548295034,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -345,7 +345,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-788945660505166",
@@ -375,8 +375,8 @@
     "description": "$1",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.9539387285589,
+    "lng": -82.44836203916152,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -385,7 +385,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-940686835277640",
@@ -395,8 +395,8 @@
     "description": "Free",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.96019125192228,
+    "lng": -82.45703492961182,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -407,7 +407,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1478108280494130",
@@ -417,8 +417,8 @@
     "description": "$5",
     "locationName": "Ruskin, FL",
     "address": "Ruskin, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.71936101064778,
+    "lng": -82.42699831283178,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -429,7 +429,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-26050985601224482",
@@ -439,8 +439,8 @@
     "description": "$100",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.95335521278762,
+    "lng": -82.46703220951632,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -451,7 +451,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-798397376151197",
@@ -461,8 +461,8 @@
     "description": "$1,234",
     "locationName": "Clearwater, FL",
     "address": "Clearwater, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.97028486599602,
+    "lng": -82.80683946243035,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -473,7 +473,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1588737519018890",
@@ -483,8 +483,8 @@
     "description": "$1",
     "locationName": "Seffner, FL",
     "address": "Seffner, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.974116101336364,
+    "lng": -82.28934577049937,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -495,7 +495,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2037993886753097",
@@ -505,8 +505,8 @@
     "description": "Free",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.944322961531302,
+    "lng": -82.4616808232903,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -517,7 +517,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2776706146042818",
@@ -527,8 +527,8 @@
     "description": "$1",
     "locationName": "Riverview, FL",
     "address": "Riverview, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.867906057924323,
+    "lng": -82.32834743823744,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -539,7 +539,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1250764500566099",
@@ -549,8 +549,8 @@
     "description": "$1",
     "locationName": "Temple Terrace, FL",
     "address": "Temple Terrace, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.038665408927734,
+    "lng": -82.39871063936091,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -561,7 +561,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2089027298550915",
@@ -571,8 +571,8 @@
     "description": "$1",
     "locationName": "New Port Richey, FL",
     "address": "New Port Richey, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.25071629582733,
+    "lng": -82.72313143520306,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -581,7 +581,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1748526779487314",
@@ -591,8 +591,8 @@
     "description": "$1",
     "locationName": "Riverview, FL",
     "address": "Riverview, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.883945582044152,
+    "lng": -82.33232306717439,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -603,7 +603,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1200804068563316",
@@ -613,8 +613,8 @@
     "description": "$1",
     "locationName": "St Petersburg, FL",
     "address": "St Petersburg, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.77262113362449,
+    "lng": -82.63455365868263,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -626,7 +626,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1305993134725106",
@@ -636,8 +636,8 @@
     "description": "$1",
     "locationName": "Seffner, FL",
     "address": "Seffner, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.98134989466161,
+    "lng": -82.28575728546637,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -648,7 +648,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-956937783562025",
@@ -658,8 +658,8 @@
     "description": "$1",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.94207952128582,
+    "lng": -82.46261180269909,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -670,7 +670,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-938324482394465",
@@ -680,8 +680,8 @@
     "description": "$1",
     "locationName": "Valrico, FL",
     "address": "Valrico, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.935610731669556,
+    "lng": -82.24106032792591,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -692,7 +692,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-875874355507601",
@@ -702,8 +702,8 @@
     "description": "Free",
     "locationName": "Riverview, FL",
     "address": "Riverview, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.867742670907614,
+    "lng": -82.33477048239601,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -714,7 +714,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-947652621052543",
@@ -724,8 +724,8 @@
     "description": "$1",
     "locationName": "Clearwater, FL",
     "address": "Clearwater, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.966289474667057,
+    "lng": -82.80124534881396,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -736,7 +736,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-740614989005035",
@@ -746,8 +746,8 @@
     "description": "$2",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.950242037150854,
+    "lng": -82.45703672143641,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -756,7 +756,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2223041651563703",
@@ -766,8 +766,8 @@
     "description": "$1",
     "locationName": "St Petersburg, FL",
     "address": "St Petersburg, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.770201641045823,
+    "lng": -82.6377524819501,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -778,7 +778,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-967947595793888",
@@ -788,8 +788,8 @@
     "description": "$1",
     "locationName": "Lutz, FL",
     "address": "Lutz, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.141818705737006,
+    "lng": -82.45248719750569,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -800,7 +800,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-949075214536453",
@@ -810,8 +810,8 @@
     "description": "$2",
     "locationName": "Riverview, FL",
     "address": "Riverview, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.880547384906844,
+    "lng": -82.3185347341546,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -822,7 +822,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1470252027891938",
@@ -832,8 +832,8 @@
     "description": "Free",
     "locationName": "Sun City Center, FL",
     "address": "Sun City Center, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.712160139861155,
+    "lng": -82.35281228325576,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -844,7 +844,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-26146271171694562",
@@ -854,8 +854,8 @@
     "description": "$1",
     "locationName": "Wesley Chapel, FL",
     "address": "Wesley Chapel, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.246217784660228,
+    "lng": -82.33182860865054,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -867,7 +867,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1443330493863305",
@@ -877,8 +877,8 @@
     "description": "$1",
     "locationName": "Brandon, FL",
     "address": "Brandon, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.938781476477303,
+    "lng": -82.29062048399311,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -889,7 +889,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-3893762880927282",
@@ -899,8 +899,8 @@
     "description": "$1",
     "locationName": "Clearwater, FL",
     "address": "Clearwater, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.963270063227927,
+    "lng": -82.7968083198586,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -911,7 +911,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1507160994748086",
@@ -921,8 +921,8 @@
     "description": "$1,234",
     "locationName": "Lutz, FL",
     "address": "Lutz, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.153639180116294,
+    "lng": -82.46655094001086,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -933,7 +933,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1291454283118656",
@@ -943,8 +943,8 @@
     "description": "$1",
     "locationName": "St Petersburg, FL",
     "address": "St Petersburg, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.766599559701515,
+    "lng": -82.63336326489303,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -955,7 +955,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1373102091529646",
@@ -965,8 +965,8 @@
     "description": "$1",
     "locationName": "Tarpon Springs, FL",
     "address": "Tarpon Springs, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.151750511716095,
+    "lng": -82.7481354635379,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -977,7 +977,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1625451755402723",
@@ -987,8 +987,8 @@
     "description": "$1",
     "locationName": "Seffner, FL",
     "address": "Seffner, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.988075783407623,
+    "lng": -82.27546948399326,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -999,7 +999,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2356930334826829",
@@ -1009,8 +1009,8 @@
     "description": "$1",
     "locationName": "Ruskin, FL",
     "address": "Ruskin, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.73050153709128,
+    "lng": -82.43346435778352,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -1021,7 +1021,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1257768846120670",
@@ -1031,8 +1031,8 @@
     "description": "$123,456",
     "locationName": "Seminole, FL",
     "address": "Seminole, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.845631411600795,
+    "lng": -82.79456443860185,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -1041,7 +1041,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-919259407751040",
@@ -1051,8 +1051,8 @@
     "description": "Free",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.958688816140242,
+    "lng": -82.45208647125239,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -1063,7 +1063,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1437815390615496",
@@ -1073,8 +1073,8 @@
     "description": "$1",
     "locationName": "Dunedin, FL",
     "address": "Dunedin, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.028906509172604,
+    "lng": -82.78012545725815,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.238Z",
@@ -1085,7 +1085,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1413902680422799",
@@ -1115,8 +1115,8 @@
     "description": "Free",
     "locationName": "St Petersburg, FL",
     "address": "St Petersburg, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.76136243547129,
+    "lng": -82.64114629699189,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.239Z",
@@ -1127,7 +1127,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2346599845824373",
@@ -1137,8 +1137,8 @@
     "description": "$123",
     "locationName": "Spring Hill, FL",
     "address": "Spring Hill, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.475108012824265,
+    "lng": -82.5494191493488,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.239Z",
@@ -1149,7 +1149,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1684854006221912",
@@ -1159,8 +1159,8 @@
     "description": "$1",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.03189711312136,
+    "lng": -81.94016506521245,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.239Z",
@@ -1171,7 +1171,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-4564020663884171",
@@ -1181,8 +1181,8 @@
     "description": "$25",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.957678385943574,
+    "lng": -82.45063323478692,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.239Z",
@@ -1194,7 +1194,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1221034066780086",
@@ -1204,8 +1204,8 @@
     "description": "$100",
     "locationName": "St Petersburg, FL",
     "address": "St Petersburg, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.766718205254236,
+    "lng": -82.64408876463293,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.239Z",
@@ -1216,7 +1216,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2361004914326264",
@@ -1226,8 +1226,8 @@
     "description": "$1",
     "locationName": "Pinellas Park, FL",
     "address": "Pinellas Park, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.850669493659115,
+    "lng": -82.7053269341443,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.239Z",
@@ -1238,7 +1238,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-931888572865143",
@@ -1270,8 +1270,8 @@
     "description": "$1",
     "locationName": "Palm Harbor, FL",
     "address": "Palm Harbor, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.085657249580123,
+    "lng": -82.76963472727037,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:08.239Z",
@@ -1282,7 +1282,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1691604731830021",
@@ -1292,8 +1292,8 @@
     "description": "Free",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.942462360891714,
+    "lng": -82.46086491444663,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1304,7 +1304,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1273099174961885",
@@ -1314,8 +1314,8 @@
     "description": "$124",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.957567937051703,
+    "lng": -82.463045509199,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1324,7 +1324,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-26264205313237675",
@@ -1356,8 +1356,8 @@
     "description": "$10",
     "locationName": "Lutz, FL",
     "address": "Lutz, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.14403310353149,
+    "lng": -82.46000454207969,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1368,7 +1368,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1087692453551757",
@@ -1378,8 +1378,8 @@
     "description": "$1",
     "locationName": "Land O Lakes, FL",
     "address": "Land O Lakes, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.219701828474957,
+    "lng": -82.44906991920763,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1390,7 +1390,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1442650394003920",
@@ -1400,8 +1400,8 @@
     "description": "$1",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.038661641838125,
+    "lng": -81.95202036853344,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1412,7 +1412,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1478456587244338",
@@ -1422,8 +1422,8 @@
     "description": "Free",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.95112525177983,
+    "lng": -82.46106468250635,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1434,7 +1434,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-915746571342588",
@@ -1444,8 +1444,8 @@
     "description": "$1",
     "locationName": "Temple Terrace, FL",
     "address": "Temple Terrace, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.032998058287845,
+    "lng": -82.388187282291,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1457,7 +1457,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1305773241455247",
@@ -1467,8 +1467,8 @@
     "description": "$5",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.954148737185566,
+    "lng": -82.45885607145406,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1477,7 +1477,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1479931070491330",
@@ -1487,8 +1487,8 @@
     "description": "$5",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.945808855914457,
+    "lng": -82.45158552633173,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1499,7 +1499,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1358286612732363",
@@ -1509,8 +1509,8 @@
     "description": "$1",
     "locationName": "St Petersburg, FL",
     "address": "St Petersburg, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.758619855923786,
+    "lng": -82.63561113363365,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1521,7 +1521,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-934650062825520",
@@ -1531,8 +1531,8 @@
     "description": "Free",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.030984574396502,
+    "lng": -81.94580334856497,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1543,7 +1543,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1788528312064912",
@@ -1553,8 +1553,8 @@
     "description": "$1",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.943440408128243,
+    "lng": -82.45456129471371,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1565,7 +1565,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-816914401423765",
@@ -1575,8 +1575,8 @@
     "description": "Free",
     "locationName": "Tarpon Springs, FL",
     "address": "Tarpon Springs, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.142895651497316,
+    "lng": -82.75725863496969,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1587,7 +1587,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1790501951916460",
@@ -1597,8 +1597,8 @@
     "description": "Free",
     "locationName": "St Petersburg, FL",
     "address": "St Petersburg, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.763083234924824,
+    "lng": -82.64639182821557,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1609,7 +1609,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-801841372446167",
@@ -1619,8 +1619,8 @@
     "description": "$123",
     "locationName": "Wesley Chapel, FL",
     "address": "Wesley Chapel, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.23075805033476,
+    "lng": -82.33245437546387,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1631,7 +1631,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1473401094446315",
@@ -1641,8 +1641,8 @@
     "description": "$1",
     "locationName": "St Petersburg, FL",
     "address": "St Petersburg, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.75816670024525,
+    "lng": -82.6476256054445,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1653,7 +1653,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-866643126445008",
@@ -1663,8 +1663,8 @@
     "description": "Free",
     "locationName": "Riverview, FL",
     "address": "Riverview, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.88604597908825,
+    "lng": -82.31974193462918,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1673,7 +1673,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1644686343552691",
@@ -1683,8 +1683,8 @@
     "description": "$1",
     "locationName": "Zephyrhills, FL",
     "address": "Zephyrhills, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.22826352245095,
+    "lng": -82.17843177836862,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1695,7 +1695,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-3047372385653650",
@@ -1705,8 +1705,8 @@
     "description": "$1",
     "locationName": "Wesley Chapel, FL",
     "address": "Wesley Chapel, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.234025813497457,
+    "lng": -82.33224749159575,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1717,7 +1717,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-934541215957726",
@@ -1727,8 +1727,8 @@
     "description": "$1",
     "locationName": "Plant City, FL",
     "address": "Plant City, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.026796445926397,
+    "lng": -82.11530141506995,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1739,7 +1739,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1254409526878867",
@@ -1749,8 +1749,8 @@
     "description": "$1",
     "locationName": "Riverview, FL",
     "address": "Riverview, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.880216203876497,
+    "lng": -82.32047228763606,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:29.895Z",
@@ -1759,7 +1759,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-966063089327717",
@@ -1769,8 +1769,8 @@
     "description": "$1,234",
     "locationName": "Largo, FL",
     "address": "Largo, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.904233565462874,
+    "lng": -82.77782394858583,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -1779,7 +1779,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2078592346208833",
@@ -1789,8 +1789,8 @@
     "description": "$5",
     "locationName": "Pinellas Park, FL",
     "address": "Pinellas Park, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.842716321590444,
+    "lng": -82.70710473564053,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -1802,7 +1802,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1519623833063733",
@@ -1812,8 +1812,8 @@
     "description": "$150",
     "locationName": "Clearwater, FL",
     "address": "Clearwater, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.959706551269292,
+    "lng": -82.79316917201645,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -1824,7 +1824,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2639982769712483",
@@ -1834,8 +1834,8 @@
     "description": "$5",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.957597015937235,
+    "lng": -82.46585339502671,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -1844,7 +1844,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1650428915995271",
@@ -1854,8 +1854,8 @@
     "description": "$1",
     "locationName": "St Petersburg, FL",
     "address": "St Petersburg, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.776428843177232,
+    "lng": -82.63480069153351,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -1866,7 +1866,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2091731641610638",
@@ -1876,8 +1876,8 @@
     "description": "$1",
     "locationName": "Temple Terrace, FL",
     "address": "Temple Terrace, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.031104191801482,
+    "lng": -82.38205771065977,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -1888,7 +1888,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1255800039435941",
@@ -1898,8 +1898,8 @@
     "description": "$5,432",
     "locationName": "Tarpon Springs, FL",
     "address": "Tarpon Springs, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.140561466519998,
+    "lng": -82.75544419112964,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -1908,7 +1908,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-958093803380033",
@@ -1918,8 +1918,8 @@
     "description": "$1",
     "locationName": "Riverview, FL",
     "address": "Riverview, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.877275528188967,
+    "lng": -82.32876588375336,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -1930,7 +1930,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-862506276822872",
@@ -1940,8 +1940,8 @@
     "description": "Free",
     "locationName": "Largo, FL",
     "address": "Largo, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.91274153960415,
+    "lng": -82.78431718466659,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -1952,7 +1952,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1469787501479818",
@@ -1962,8 +1962,8 @@
     "description": "$1",
     "locationName": "Seminole, FL",
     "address": "Seminole, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.830033206876433,
+    "lng": -82.79565576884356,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -1974,7 +1974,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-947156541019420",
@@ -1984,8 +1984,8 @@
     "description": "$50",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.943555657017665,
+    "lng": -82.46483017539805,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -1997,7 +1997,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2153959135417623",
@@ -2007,8 +2007,8 @@
     "description": "$1",
     "locationName": "Largo, FL",
     "address": "Largo, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.912343450604894,
+    "lng": -82.78462849337154,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2017,7 +2017,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-26442359538691977",
@@ -2027,8 +2027,8 @@
     "description": "$1",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.946139413101037,
+    "lng": -82.46587816697583,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2037,7 +2037,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2356233704896852",
@@ -2047,8 +2047,8 @@
     "description": "$1,234",
     "locationName": "New Port Richey, FL",
     "address": "New Port Richey, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.24958968005087,
+    "lng": -82.71133386016707,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2059,7 +2059,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1467279748384344",
@@ -2069,8 +2069,8 @@
     "description": "$123",
     "locationName": "Largo, FL",
     "address": "Largo, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.90593457999243,
+    "lng": -82.7952872210472,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2081,7 +2081,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1645381303469319",
@@ -2091,8 +2091,8 @@
     "description": "$123",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.031740451194302,
+    "lng": -81.94553758196194,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2103,7 +2103,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1257597506564456",
@@ -2136,8 +2136,8 @@
     "description": "$5",
     "locationName": "Zephyrhills, FL",
     "address": "Zephyrhills, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.232405079111725,
+    "lng": -82.18503167139431,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2149,7 +2149,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-4425986744337009",
@@ -2159,8 +2159,8 @@
     "description": "$1",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.955920198483287,
+    "lng": -82.45214110038343,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2171,7 +2171,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-949025801165586",
@@ -2181,8 +2181,8 @@
     "description": "$1",
     "locationName": "Clearwater, FL",
     "address": "Clearwater, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.968530907645974,
+    "lng": -82.80613970449545,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2193,7 +2193,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-3885883738386067",
@@ -2203,8 +2203,8 @@
     "description": "$1",
     "locationName": "Brandon, FL",
     "address": "Brandon, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.928106414523572,
+    "lng": -82.29533566986926,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2215,7 +2215,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-4591448974472491",
@@ -2225,8 +2225,8 @@
     "description": "$20",
     "locationName": "Palm Harbor, FL",
     "address": "Palm Harbor, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.07890092643163,
+    "lng": -82.75558357755747,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2237,7 +2237,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-4604617369772398",
@@ -2247,8 +2247,8 @@
     "description": "$1,237,686",
     "locationName": "Oldsmar, FL",
     "address": "Oldsmar, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.025685177242078,
+    "lng": -82.65920432758622,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2259,7 +2259,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1601623707777010",
@@ -2269,8 +2269,8 @@
     "description": "$1",
     "locationName": "St Petersburg, FL",
     "address": "St Petersburg, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.764534820420003,
+    "lng": -82.64591300833163,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2281,7 +2281,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1481093066697407",
@@ -2291,8 +2291,8 @@
     "description": "$4,445,555",
     "locationName": "Oldsmar, FL",
     "address": "Oldsmar, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.040025752415207,
+    "lng": -82.66521540043912,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2303,7 +2303,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1261275478669210",
@@ -2313,8 +2313,8 @@
     "description": "Free",
     "locationName": "Clearwater, FL",
     "address": "Clearwater, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.967133873924922,
+    "lng": -82.79509463512217,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2325,7 +2325,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-3906111166193059",
@@ -2335,8 +2335,8 @@
     "description": "$1",
     "locationName": "Wesley Chapel, FL",
     "address": "Wesley Chapel, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.234020906331562,
+    "lng": -82.31998635313363,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2347,7 +2347,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2114086802773656",
@@ -2357,8 +2357,8 @@
     "description": "Free",
     "locationName": "Tarpon Springs, FL",
     "address": "Tarpon Springs, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.15371290359734,
+    "lng": -82.74893109522584,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2369,7 +2369,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1731758414470151",
@@ -2379,8 +2379,8 @@
     "description": "$1",
     "locationName": "Hudson, FL",
     "address": "Hudson, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.371399785567814,
+    "lng": -82.69804524849005,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2391,7 +2391,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1893159314652666",
@@ -2401,8 +2401,8 @@
     "description": "$1",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.943372132708635,
+    "lng": -82.45869288164086,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2413,7 +2413,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1249007630153869",
@@ -2423,8 +2423,8 @@
     "description": "$2",
     "locationName": "Riverview, FL",
     "address": "Riverview, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.88046903978011,
+    "lng": -82.31955509805606,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2435,7 +2435,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2074796983103165",
@@ -2445,8 +2445,8 @@
     "description": "$1",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.887502570024548,
+    "lng": -81.84692576111262,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2455,7 +2455,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1718206119355064",
@@ -2465,8 +2465,8 @@
     "description": "Free",
     "locationName": "St Petersburg, FL",
     "address": "St Petersburg, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.772524976540264,
+    "lng": -82.64509514436932,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2475,7 +2475,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-917204287905875",
@@ -2485,8 +2485,8 @@
     "description": "$8",
     "locationName": "Bradenton, FL",
     "address": "Bradenton, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.49857821246437,
+    "lng": -82.5821758862083,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:55:46.650Z",
@@ -2495,7 +2495,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-950168170793984",
@@ -2505,8 +2505,8 @@
     "description": "$2",
     "locationName": "Riverview, FL",
     "address": "Riverview, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.873979386787955,
+    "lng": -82.31723947021642,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.568Z",
@@ -2517,7 +2517,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2148510729293243",
@@ -2527,8 +2527,8 @@
     "description": "$1",
     "locationName": "Wesley Chapel, FL",
     "address": "Wesley Chapel, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.233933647899104,
+    "lng": -82.33081409110609,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.568Z",
@@ -2539,7 +2539,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-905459855647466",
@@ -2549,8 +2549,8 @@
     "description": "$1",
     "locationName": "Plant City, FL",
     "address": "Plant City, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.02329597533899,
+    "lng": -82.11174946235742,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.568Z",
@@ -2561,7 +2561,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1473942454143705",
@@ -2571,8 +2571,8 @@
     "description": "Free",
     "locationName": "St Petersburg, FL",
     "address": "St Petersburg, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.7663213115685,
+    "lng": -82.63435171331805,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.568Z",
@@ -2583,7 +2583,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-3489522207880439",
@@ -2593,8 +2593,8 @@
     "description": "$1",
     "locationName": "Riverview, FL",
     "address": "Riverview, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.877531263207356,
+    "lng": -82.33291056433639,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.568Z",
@@ -2605,7 +2605,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1263354071796111",
@@ -2615,8 +2615,8 @@
     "description": "Free",
     "locationName": "Lutz, FL",
     "address": "Lutz, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.15398172967185,
+    "lng": -82.46972365850502,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.568Z",
@@ -2625,7 +2625,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-4278265622427293",
@@ -2635,8 +2635,8 @@
     "description": "$1,234",
     "locationName": "New Port Richey, FL",
     "address": "New Port Richey, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.248032176184466,
+    "lng": -82.7184278023653,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.568Z",
@@ -2647,7 +2647,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-963013686076186",
@@ -2657,8 +2657,8 @@
     "description": "Free",
     "locationName": "Clearwater, FL",
     "address": "Clearwater, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.962815382126596,
+    "lng": -82.80071285812838,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.568Z",
@@ -2669,7 +2669,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1257338082513485",
@@ -2679,8 +2679,8 @@
     "description": "$200",
     "locationName": "Ruskin, FL",
     "address": "Ruskin, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.715340787066275,
+    "lng": -82.43870075179521,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.568Z",
@@ -2692,7 +2692,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-925504036552547",
@@ -2702,8 +2702,8 @@
     "description": "$15",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.950861477251497,
+    "lng": -82.45892023338074,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.568Z",
@@ -2714,7 +2714,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-958909859933603",
@@ -2724,8 +2724,8 @@
     "description": "$100",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.9436142731612,
+    "lng": -82.4556847119819,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -2736,7 +2736,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2233834133812450",
@@ -2768,8 +2768,8 @@
     "description": "$500",
     "locationName": "Clearwater, FL",
     "address": "Clearwater, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.971158172664246,
+    "lng": -82.80159242582917,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -2780,7 +2780,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-904930308995226",
@@ -2790,8 +2790,8 @@
     "description": "$10",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.9419427179915,
+    "lng": -82.453185308153,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -2800,7 +2800,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1269085747953928",
@@ -2810,8 +2810,8 @@
     "description": "$5",
     "locationName": "Brandon, FL",
     "address": "Brandon, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.934989488395026,
+    "lng": -82.2853469632912,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -2820,7 +2820,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1122371856721541",
@@ -2830,8 +2830,8 @@
     "description": "$40",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.951737083374166,
+    "lng": -82.45411196041069,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -2840,7 +2840,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1689615589046148",
@@ -2850,8 +2850,8 @@
     "description": "Free",
     "locationName": "Riverview, FL",
     "address": "Riverview, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.870030917141666,
+    "lng": -82.32817332675847,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -2860,7 +2860,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1642839460261440",
@@ -2870,8 +2870,8 @@
     "description": "Free",
     "locationName": "Clearwater, FL",
     "address": "Clearwater, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.97475397603479,
+    "lng": -82.80768138055718,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -2882,7 +2882,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-964390116114780",
@@ -2892,8 +2892,8 @@
     "description": "$1",
     "locationName": "Spring Hill, FL",
     "address": "Spring Hill, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.48573530146954,
+    "lng": -82.55430960002295,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -2902,7 +2902,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-936683075917806",
@@ -2912,8 +2912,8 @@
     "description": "$1",
     "locationName": "Plant City, FL",
     "address": "Plant City, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.012938188005936,
+    "lng": -82.11606217387506,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -2924,7 +2924,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-961352256468993",
@@ -2954,8 +2954,8 @@
     "description": "Free",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.944703334609386,
+    "lng": -82.45046294607884,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -2966,7 +2966,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1248900366857474",
@@ -2976,8 +2976,8 @@
     "description": "$1,234",
     "locationName": "Spring Hill, FL",
     "address": "Spring Hill, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.471496807466497,
+    "lng": -82.55028700906284,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -2988,7 +2988,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-3263213093886420",
@@ -3021,8 +3021,8 @@
     "description": "$2",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.04010077644236,
+    "lng": -81.95561235662386,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -3031,7 +3031,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-35191254140458811",
@@ -3041,8 +3041,8 @@
     "description": "$1",
     "locationName": "Wesley Chapel, FL",
     "address": "Wesley Chapel, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.240562262781143,
+    "lng": -82.31944653472218,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -3051,7 +3051,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1924813764810082",
@@ -3061,8 +3061,8 @@
     "description": "$500",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.94135509412765,
+    "lng": -82.46069197932682,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -3073,7 +3073,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-947722575100451",
@@ -3083,8 +3083,8 @@
     "description": "$1",
     "locationName": "Seffner, FL",
     "address": "Seffner, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.97914627683105,
+    "lng": -82.28482912114478,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -3095,7 +3095,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1724360058946046",
@@ -3105,8 +3105,8 @@
     "description": "Free",
     "locationName": "St Petersburg, FL",
     "address": "St Petersburg, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.763229778797655,
+    "lng": -82.64898167630061,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -3117,7 +3117,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-942709121486471",
@@ -3127,8 +3127,8 @@
     "description": "$1,234",
     "locationName": "Bradenton, FL",
     "address": "Bradenton, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.503523038507875,
+    "lng": -82.57911546238074,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -3137,7 +3137,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-4441970339282709",
@@ -3147,8 +3147,8 @@
     "description": "$15",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.89794974788637,
+    "lng": -81.84108296639874,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -3159,7 +3159,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1595118251718255",
@@ -3169,8 +3169,8 @@
     "description": "$1",
     "locationName": "Plant City, FL",
     "address": "Plant City, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.011208566672313,
+    "lng": -82.11476334027853,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -3181,7 +3181,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-951406210619629",
@@ -3191,8 +3191,8 @@
     "description": "$123",
     "locationName": "Mulberry, FL",
     "address": "Mulberry, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.895379846628636,
+    "lng": -81.97468602704278,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -3203,7 +3203,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-4342649626004741",
@@ -3213,8 +3213,8 @@
     "description": "$5",
     "locationName": "Spring Hill, FL",
     "address": "Spring Hill, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.482383422636733,
+    "lng": -82.55172128462571,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:02.569Z",
@@ -3225,7 +3225,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2062480497715654",
@@ -3235,8 +3235,8 @@
     "description": "$1",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.031698270853955,
+    "lng": -81.95125091002393,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3247,7 +3247,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1733951387360880",
@@ -3257,8 +3257,8 @@
     "description": "Free",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.045978158567532,
+    "lng": -81.9492378680669,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3269,7 +3269,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1432580561681994",
@@ -3279,8 +3279,8 @@
     "description": "$1,000,000",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.88819898085875,
+    "lng": -81.84821135185427,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3291,7 +3291,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-964692529485777",
@@ -3301,8 +3301,8 @@
     "description": "$123",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.03360553720144,
+    "lng": -81.95694577391862,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3313,7 +3313,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1518069410034641",
@@ -3323,8 +3323,8 @@
     "description": "Free",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.04086999727738,
+    "lng": -81.94197171593386,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3335,7 +3335,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1357759549715855",
@@ -3345,8 +3345,8 @@
     "description": "$1",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.047195385434,
+    "lng": -81.94822243534968,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3357,7 +3357,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1474783140724621",
@@ -3367,8 +3367,8 @@
     "description": "$1",
     "locationName": "Plant City, FL",
     "address": "Plant City, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.010178441583747,
+    "lng": -82.12054202266222,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3379,7 +3379,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-3288117051495045",
@@ -3389,8 +3389,8 @@
     "description": "$800",
     "locationName": "Mulberry, FL",
     "address": "Mulberry, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.901832754224632,
+    "lng": -81.97474039712655,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3399,7 +3399,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1382648313549270",
@@ -3409,8 +3409,8 @@
     "description": "$800",
     "locationName": "Mulberry, FL",
     "address": "Mulberry, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.900389035928967,
+    "lng": -81.97752035497037,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3419,7 +3419,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1702929144416568",
@@ -3429,8 +3429,8 @@
     "description": "$123,465",
     "locationName": "Mulberry, FL",
     "address": "Mulberry, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.901423250130126,
+    "lng": -81.96571734446614,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3441,7 +3441,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-849344668166589",
@@ -3451,8 +3451,8 @@
     "description": "Free",
     "locationName": "Mulberry, FL",
     "address": "Mulberry, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.903700916492287,
+    "lng": -81.97473550315735,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3463,7 +3463,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-4588363721418280",
@@ -3473,8 +3473,8 @@
     "description": "$1",
     "locationName": "Mulberry, FL",
     "address": "Mulberry, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.888401748810338,
+    "lng": -81.97844415996768,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3485,7 +3485,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1656576748699578",
@@ -3495,8 +3495,8 @@
     "description": "Free",
     "locationName": "Plant City, FL",
     "address": "Plant City, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.013070292011317,
+    "lng": -82.12489782205007,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3507,7 +3507,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1704634860380709",
@@ -3517,8 +3517,8 @@
     "description": "Free",
     "locationName": "Plant City, FL",
     "address": "Plant City, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.02516540115745,
+    "lng": -82.1274255531713,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3529,7 +3529,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-948789630937863",
@@ -3539,8 +3539,8 @@
     "description": "$1",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.037645136048194,
+    "lng": -81.94272955483079,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3551,7 +3551,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-3147446498760882",
@@ -3561,8 +3561,8 @@
     "description": "$1",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.04738044294457,
+    "lng": -81.94893503478002,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3573,7 +3573,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1491783629332602",
@@ -3583,8 +3583,8 @@
     "description": "$1",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.030025783090494,
+    "lng": -81.95923005670898,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3595,7 +3595,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-946319304592704",
@@ -3605,8 +3605,8 @@
     "description": "$123",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.038530548207454,
+    "lng": -81.942778530703,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3617,7 +3617,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1236367555324055",
@@ -3627,8 +3627,8 @@
     "description": "$1",
     "locationName": "Plant City, FL",
     "address": "Plant City, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.02493570309089,
+    "lng": -82.11759119297587,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3637,7 +3637,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-4367945410144662",
@@ -3647,8 +3647,8 @@
     "description": "$800",
     "locationName": "Mulberry, FL",
     "address": "Mulberry, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.88989805129203,
+    "lng": -81.97711036800887,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3657,7 +3657,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-959158996571766",
@@ -3667,8 +3667,8 @@
     "description": "$1",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.04384285674184,
+    "lng": -81.95832485310781,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3679,7 +3679,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1591222338756297",
@@ -3689,8 +3689,8 @@
     "description": "$1",
     "locationName": "Plant City, FL",
     "address": "Plant City, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.011765046106586,
+    "lng": -82.12810577514719,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3701,7 +3701,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1501090194711195",
@@ -3711,8 +3711,8 @@
     "description": "$25",
     "locationName": "Mulberry, FL",
     "address": "Mulberry, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.896781031675324,
+    "lng": -81.98028077070052,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3721,7 +3721,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1280448334033758",
@@ -3731,8 +3731,8 @@
     "description": "$1",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.90207537651937,
+    "lng": -81.85186001141928,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3743,7 +3743,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-950911304078069",
@@ -3753,8 +3753,8 @@
     "description": "$50",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.892501440411095,
+    "lng": -81.8388279804484,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3763,7 +3763,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1515313349959527",
@@ -3773,8 +3773,8 @@
     "description": "$1",
     "locationName": "Plant City, FL",
     "address": "Plant City, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.027900861497262,
+    "lng": -82.12284092819303,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3785,7 +3785,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2748366765555918",
@@ -3795,8 +3795,8 @@
     "description": "$123",
     "locationName": "Winter Haven, FL",
     "address": "Winter Haven, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.02820935080362,
+    "lng": -81.73531705895132,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3807,7 +3807,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1304844388170383",
@@ -3817,8 +3817,8 @@
     "description": "$10",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.90485531763387,
+    "lng": -81.84321298201384,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3829,7 +3829,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-923747140390713",
@@ -3839,8 +3839,8 @@
     "description": "$100",
     "locationName": "Winter Haven, FL",
     "address": "Winter Haven, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.03096335952215,
+    "lng": -81.73193610941341,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3851,7 +3851,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-900442309485737",
@@ -3861,8 +3861,8 @@
     "description": "Free",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.891787626220896,
+    "lng": -81.83590413140055,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3873,7 +3873,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-958126313307243",
@@ -3883,8 +3883,8 @@
     "description": "$1",
     "locationName": "Winter Haven, FL",
     "address": "Winter Haven, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.029581580545866,
+    "lng": -81.7422367194068,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3895,7 +3895,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-937160888863045",
@@ -3905,8 +3905,8 @@
     "description": "$10",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.89673545093894,
+    "lng": -81.84187675516034,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3917,7 +3917,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-26369224316050419",
@@ -3927,8 +3927,8 @@
     "description": "$12,345",
     "locationName": "Winter Haven, FL",
     "address": "Winter Haven, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.01386644575015,
+    "lng": -81.72872097484873,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3937,7 +3937,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1937870023495931",
@@ -3947,8 +3947,8 @@
     "description": "$1,245",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.040277697953062,
+    "lng": -81.95930484697827,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3957,7 +3957,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1495034828919670",
@@ -3967,8 +3967,8 @@
     "description": "$1",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.049249418379816,
+    "lng": -81.9479993665028,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3979,7 +3979,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1315922440398848",
@@ -3989,8 +3989,8 @@
     "description": "$25",
     "locationName": "Mulberry, FL",
     "address": "Mulberry, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.902879273085766,
+    "lng": -81.96464752902337,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -3999,7 +3999,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1153489373473878",
@@ -4009,8 +4009,8 @@
     "description": "$1",
     "locationName": "Auburndale, FL",
     "address": "Auburndale, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.067718634076424,
+    "lng": -81.79522468617327,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -4021,7 +4021,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-4367986990149914",
@@ -4031,8 +4031,8 @@
     "description": "$1,234",
     "locationName": "Winter Haven, FL",
     "address": "Winter Haven, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.012974392472103,
+    "lng": -81.72443227618017,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -4043,7 +4043,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2180329666127526",
@@ -4053,8 +4053,8 @@
     "description": "$123,456",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.04184430189751,
+    "lng": -81.94473709874642,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -4065,7 +4065,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-26807202665531312",
@@ -4075,8 +4075,8 @@
     "description": "$25",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.899095274322182,
+    "lng": -81.83404954835875,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -4087,7 +4087,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2149282365908548",
@@ -4097,8 +4097,8 @@
     "description": "$1",
     "locationName": "Winter Haven, FL",
     "address": "Winter Haven, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.025099155488856,
+    "lng": -81.72763736148883,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -4109,7 +4109,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1659819842111365",
@@ -4119,8 +4119,8 @@
     "description": "$1",
     "locationName": "Auburndale, FL",
     "address": "Auburndale, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.071187915496477,
+    "lng": -81.79476545635943,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -4129,7 +4129,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1987150465498135",
@@ -4139,8 +4139,8 @@
     "description": "$50",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.90638791465546,
+    "lng": -81.83836865625672,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -4149,7 +4149,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1233695998917971",
@@ -4159,8 +4159,8 @@
     "description": "$1",
     "locationName": "Plant City, FL",
     "address": "Plant City, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.017858952630213,
+    "lng": -82.11542595920673,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -4171,7 +4171,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2022800131966762",
@@ -4181,8 +4181,8 @@
     "description": "Free",
     "locationName": "Winter Haven, FL",
     "address": "Winter Haven, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.02091192612302,
+    "lng": -81.73829632822415,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -4193,7 +4193,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1485729916511759",
@@ -4203,8 +4203,8 @@
     "description": "$1",
     "locationName": "Plant City, FL",
     "address": "Plant City, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.01075531184312,
+    "lng": -82.11442221665047,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -4215,7 +4215,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-821645383581409",
@@ -4225,8 +4225,8 @@
     "description": "$40",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.89436165406769,
+    "lng": -81.85114809876224,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:20.666Z",
@@ -4237,7 +4237,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-939448232408631",
@@ -4247,8 +4247,8 @@
     "description": "$123",
     "locationName": "Mulberry, FL",
     "address": "Mulberry, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.889200671734248,
+    "lng": -81.97163138576829,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:36.655Z",
@@ -4259,7 +4259,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-895334233338929",
@@ -4269,8 +4269,8 @@
     "description": "Free",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.03810593979889,
+    "lng": -81.95643033515694,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:36.655Z",
@@ -4281,7 +4281,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1626382045073031",
@@ -4291,8 +4291,8 @@
     "description": "$50",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.89778622005209,
+    "lng": -81.84549315556373,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:36.655Z",
@@ -4303,7 +4303,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-907082565524283",
@@ -4313,8 +4313,8 @@
     "description": "$25",
     "locationName": "Winter Haven, FL",
     "address": "Winter Haven, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.027979858183837,
+    "lng": -81.74187835815044,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:36.655Z",
@@ -4323,7 +4323,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-34876209081977424",
@@ -4333,8 +4333,8 @@
     "description": "$1",
     "locationName": "Winter Haven, FL",
     "address": "Winter Haven, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.025354839096003,
+    "lng": -81.72585413613909,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:36.655Z",
@@ -4345,7 +4345,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1628845421778794",
@@ -4355,8 +4355,8 @@
     "description": "Free",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.946708877504918,
+    "lng": -82.45930773503952,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:36.655Z",
@@ -4367,7 +4367,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-813957291724658",
@@ -4377,8 +4377,8 @@
     "description": "$1,234,567",
     "locationName": "Winter Haven, FL",
     "address": "Winter Haven, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.031263903979852,
+    "lng": -81.73436225932717,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:36.655Z",
@@ -4389,7 +4389,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1288694629839854",
@@ -4399,8 +4399,8 @@
     "description": "$1",
     "locationName": "Plant City, FL",
     "address": "Plant City, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.016840711542002,
+    "lng": -82.11187559095293,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:36.655Z",
@@ -4411,7 +4411,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1235856328663063",
@@ -4421,8 +4421,8 @@
     "description": "$1",
     "locationName": "Plant City, FL",
     "address": "Plant City, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.020071550805973,
+    "lng": -82.1189012978928,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:36.655Z",
@@ -4433,7 +4433,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1721143709047577",
@@ -4443,8 +4443,8 @@
     "description": "$300",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.895457136514526,
+    "lng": -81.83348108825373,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:36.655Z",
@@ -4455,7 +4455,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1447017966714210",
@@ -4465,8 +4465,8 @@
     "description": "$10",
     "locationName": "Winter Haven, FL",
     "address": "Winter Haven, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.01723760054664,
+    "lng": -81.72494110061974,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:36.655Z",
@@ -4477,7 +4477,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-809430692176809",
@@ -4509,8 +4509,8 @@
     "description": "$123,456",
     "locationName": "Mulberry, FL",
     "address": "Mulberry, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.903846090803828,
+    "lng": -81.96944487031628,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.709Z",
@@ -4521,7 +4521,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2478595095898541",
@@ -4531,8 +4531,8 @@
     "description": "$123",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.03726075177137,
+    "lng": -81.94264366355536,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.709Z",
@@ -4543,7 +4543,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1245257507728004",
@@ -4553,8 +4553,8 @@
     "description": "$1",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.902147550589667,
+    "lng": -81.84746463042029,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.709Z",
@@ -4565,7 +4565,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-735368696211317",
@@ -4575,8 +4575,8 @@
     "description": "$1",
     "locationName": "Mulberry, FL",
     "address": "Mulberry, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.895698657376723,
+    "lng": -81.97052257796781,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.709Z",
@@ -4587,7 +4587,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1311148217510381",
@@ -4597,8 +4597,8 @@
     "description": "$1",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.037348287315748,
+    "lng": -81.94991044097799,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.710Z",
@@ -4609,7 +4609,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-958059889991642",
@@ -4619,8 +4619,8 @@
     "description": "$30",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.890726036402377,
+    "lng": -81.84580220744208,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.710Z",
@@ -4631,7 +4631,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-2327768440968019",
@@ -4641,8 +4641,8 @@
     "description": "$12,345",
     "locationName": "Winter Haven, FL",
     "address": "Winter Haven, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.02117287394113,
+    "lng": -81.7295750943019,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.710Z",
@@ -4653,7 +4653,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-3535005369971455",
@@ -4663,8 +4663,8 @@
     "description": "Free",
     "locationName": "Winter Haven, FL",
     "address": "Winter Haven, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.015456225455292,
+    "lng": -81.7312622715638,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.710Z",
@@ -4675,7 +4675,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-4524699697816577",
@@ -4685,8 +4685,8 @@
     "description": "$200",
     "locationName": "Estate sale 1409 Ave L NW Winter Haven 33881",
     "address": "Estate sale 1409 Ave L NW Winter Haven 33881",
-    "lat": null,
-    "lng": null,
+    "lat": 28.019856514340635,
+    "lng": -81.72621503358293,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.710Z",
@@ -4697,7 +4697,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-955590867418181",
@@ -4707,8 +4707,8 @@
     "description": "$20",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.904607460331032,
+    "lng": -81.83396573659965,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.710Z",
@@ -4719,7 +4719,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-4357680131146260",
@@ -4751,8 +4751,8 @@
     "description": "$1",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.0421187461496,
+    "lng": -81.95135806724238,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.710Z",
@@ -4763,7 +4763,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1418956286170556",
@@ -4773,8 +4773,8 @@
     "description": "Free",
     "locationName": "St Petersburg, FL",
     "address": "St Petersburg, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.76904440740314,
+    "lng": -82.64752230227671,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.710Z",
@@ -4787,7 +4787,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1647819522911904",
@@ -4797,8 +4797,8 @@
     "description": "$1",
     "locationName": "Valrico, FL",
     "address": "Valrico, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.922815538970138,
+    "lng": -82.23173674583134,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.710Z",
@@ -4807,7 +4807,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1716940559468176",
@@ -4817,8 +4817,8 @@
     "description": "$1",
     "locationName": "Bartow, FL",
     "address": "Bartow, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.886897009123125,
+    "lng": -81.85291060580512,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.710Z",
@@ -4829,7 +4829,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-794284890395459",
@@ -4839,8 +4839,8 @@
     "description": "Free",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.031858927986114,
+    "lng": -81.95329130080276,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.710Z",
@@ -4851,7 +4851,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-918361547647671",
@@ -4861,8 +4861,8 @@
     "description": "Free",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.045910819584883,
+    "lng": -81.95056682098739,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.710Z",
@@ -4873,7 +4873,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-921506683971061",
@@ -4905,8 +4905,8 @@
     "description": "Free",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 28.04818505309375,
+    "lng": -81.94013493903748,
     "saleDate": "",
     "saleTime": "",
     "createdAt": "2026-03-22T00:56:53.710Z",
@@ -4917,7 +4917,7 @@
     "highPriorityMatches": [],
     "status": "active",
     "sourceType": "facebook",
-    "confidence": 0.6
+    "confidence": 0.7
   },
   {
     "id": "fb-1461681358991807",
@@ -5956,8 +5956,8 @@
     "description": "Moved Offsite To Store",
     "locationName": "Largo, FL",
     "address": "1479 S Belcher Rd , Largo, FL, 33771",
-    "lat": null,
-    "lng": null,
+    "lat": 27.905170171641156,
+    "lng": -82.79729279093733,
     "saleDate": "2026-03-19",
     "saleDates": [
       "2026-03-19",
@@ -5980,8 +5980,8 @@
     "description": "Estate Sale",
     "locationName": "Tarpon Springs, FL",
     "address": "1550 Big Bass Dr , Tarpon Springs, FL, 34689",
-    "lat": null,
-    "lng": null,
+    "lat": 28.146474767298916,
+    "lng": -82.76067452413575,
     "saleDate": "2026-03-19",
     "saleDates": [
       "2026-03-19",
@@ -6006,8 +6006,8 @@
     "description": "Online Only Auction",
     "locationName": "Tampa Bay, FL",
     "address": "Tampa Bay, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.956879032481424,
+    "lng": -82.45119802607557,
     "saleDate": "2026-03-17",
     "saleDates": [
       "2026-03-17",
@@ -6057,8 +6057,8 @@
     "description": "Estate Sale",
     "locationName": "Riverview, FL",
     "address": "12835 Satin Lily Dr, Riverview, FL, 33579",
-    "lat": null,
-    "lng": null,
+    "lat": 27.869691204484884,
+    "lng": -82.31734717016826,
     "saleDate": "2026-03-20",
     "saleDates": [
       "2026-03-20",
@@ -6083,8 +6083,8 @@
     "description": "Estate Sale",
     "locationName": "Clearwater, FL",
     "address": "2893 Rollingwood Ct, Clearwater, FL, 33761",
-    "lat": null,
-    "lng": null,
+    "lat": 27.971721585855562,
+    "lng": -82.79335072309206,
     "saleDate": "2026-03-20",
     "saleDates": [
       "2026-03-20",
@@ -6134,8 +6134,8 @@
     "description": "Estate Sale",
     "locationName": "Land O Lakes, FL",
     "address": "18352 Dajana Ave, Land O Lakes, FL, 34638",
-    "lat": null,
-    "lng": null,
+    "lat": 28.227549792544004,
+    "lng": -82.45358548941884,
     "saleDate": "2026-03-20",
     "saleDates": [
       "2026-03-20",
@@ -6160,8 +6160,8 @@
     "description": "Estate Sale",
     "locationName": "New Port Richey, FL",
     "address": "5240 School Rd , New Port Richey, FL, 34653",
-    "lat": null,
-    "lng": null,
+    "lat": 28.254383453131357,
+    "lng": -82.7108702635718,
     "saleDate": "2026-03-20",
     "saleDates": [
       "2026-03-20",
@@ -6186,8 +6186,8 @@
     "description": "Estate Sale",
     "locationName": "Plant City, FL",
     "address": "Plant City, FL, 33566",
-    "lat": null,
-    "lng": null,
+    "lat": 28.009922782083926,
+    "lng": -82.12489830483631,
     "saleDate": "2026-03-27",
     "saleDates": [
       "2026-03-27",
@@ -6265,8 +6265,8 @@
     "description": "Online Only Auction",
     "locationName": "Tampa Bay, FL",
     "address": "Tampa Bay, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.945793179647907,
+    "lng": -82.4504810695825,
     "saleDate": "2026-03-18",
     "saleDates": [
       "2026-03-18",
@@ -6729,8 +6729,8 @@
     "description": "Online Only Auction",
     "locationName": "Tampa Bay, FL",
     "address": "Tampa Bay, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.95016852225278,
+    "lng": -82.45697345585276,
     "saleDate": "2026-03-24",
     "saleDates": [
       "2026-03-24",
@@ -6781,8 +6781,8 @@
     "description": "Online Only Auction",
     "locationName": "Tampa Bay, FL",
     "address": "Tampa Bay, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.960123332132742,
+    "lng": -82.45958699411558,
     "saleDate": "2026-03-29",
     "saleDates": [
       "2026-03-29",
@@ -6951,8 +6951,8 @@
     "description": "Online Only Auction",
     "locationName": "Tampa Bay, FL",
     "address": "Tampa Bay, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.941782309609952,
+    "lng": -82.45649341339175,
     "saleDate": "2026-03-21",
     "saleDates": [
       "2026-03-21",
@@ -6975,8 +6975,8 @@
     "description": "Estate Sale",
     "locationName": "Sarasota, FL",
     "address": "Sarasota, FL, 34243",
-    "lat": null,
-    "lng": null,
+    "lat": 27.339755131567053,
+    "lng": -82.52846338875898,
     "saleDate": "2026-04-02",
     "saleDates": [
       "2026-04-02",
@@ -8178,8 +8178,8 @@
     "description": "Estate Sale",
     "locationName": "Seminole, FL",
     "address": "7192 114th Ln N , Seminole, FL, 33772",
-    "lat": null,
-    "lng": null,
+    "lat": 27.840336183571026,
+    "lng": -82.78398784510877,
     "saleDate": "2026-03-21",
     "saleDates": [
       "2026-03-21"
@@ -8681,8 +8681,8 @@
     "description": "Moved Offsite To Warehouse",
     "locationName": "Clearwater, FL",
     "address": "Clearwater, FL, 33762",
-    "lat": null,
-    "lng": null,
+    "lat": 27.959332551555796,
+    "lng": -82.80908988020693,
     "saleDate": "2026-03-21",
     "saleDates": [
       "2026-03-21"
@@ -9203,8 +9203,8 @@
     "description": "Estate Sale",
     "locationName": "Winter Haven, FL",
     "address": "Winter Haven, FL, 33880",
-    "lat": null,
-    "lng": null,
+    "lat": 28.03054697915086,
+    "lng": -81.74011955830537,
     "saleDate": "2026-03-27",
     "saleDates": [
       "2026-03-27",
@@ -9769,8 +9769,8 @@
     "description": "Estate Sale",
     "locationName": "Bradenton, FL",
     "address": "Bradenton, FL, 34202",
-    "lat": null,
-    "lng": null,
+    "lat": 27.496363642570987,
+    "lng": -82.57307374001941,
     "saleDate": "2026-03-21",
     "saleDates": [
       "2026-03-21"
@@ -10339,8 +10339,8 @@
     "description": "Moving Sale",
     "locationName": "Bradenton, FL",
     "address": "Bradenton, FL, 34210",
-    "lat": null,
-    "lng": null,
+    "lat": 27.498934433099244,
+    "lng": -82.56495511534715,
     "saleDate": "2026-03-21",
     "saleDates": [
       "2026-03-21"
@@ -10645,8 +10645,8 @@
     "description": "Online Only Auction",
     "locationName": "Tampa Bay, FL",
     "address": "Tampa Bay, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.94095545225255,
+    "lng": -82.45127267286145,
     "saleDate": "2026-03-28",
     "saleDates": [
       "2026-03-28",
@@ -10669,8 +10669,8 @@
     "description": "Estate Sale",
     "locationName": "Bradenton, FL",
     "address": "Bradenton, FL, 34209",
-    "lat": null,
-    "lng": null,
+    "lat": 27.491834906284915,
+    "lng": -82.57670141072589,
     "saleDate": "2026-03-28",
     "saleDates": [
       "2026-03-28",
@@ -10695,8 +10695,8 @@
     "description": "Estate Sale",
     "locationName": "Lakeland, FL",
     "address": "Lakeland, FL, 33803",
-    "lat": null,
-    "lng": null,
+    "lat": 28.032906687766665,
+    "lng": -81.9587129704064,
     "saleDate": "2026-03-28",
     "saleDates": [
       "2026-03-28",
@@ -10746,8 +10746,8 @@
     "description": "Online Only Auction",
     "locationName": "Tampa Bay, FL",
     "address": "Tampa Bay, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.94593672424257,
+    "lng": -82.45157444327721,
     "saleDate": "2026-03-22",
     "saleDates": [
       "2026-03-22",
@@ -10770,8 +10770,8 @@
     "description": "Estate Sale",
     "locationName": "Sun City Center, FL",
     "address": "Sun City Center, FL, 33573",
-    "lat": null,
-    "lng": null,
+    "lat": 27.70646958312749,
+    "lng": -82.36084527113466,
     "saleDate": "2026-03-27",
     "saleDates": [
       "2026-03-27",
@@ -10796,8 +10796,8 @@
     "description": "Online Only Auction",
     "locationName": "Tampa Bay, FL",
     "address": "Tampa Bay, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.95302771038447,
+    "lng": -82.4511995114692,
     "saleDate": "2026-03-21",
     "saleDates": [
       "2026-03-21",
@@ -10820,8 +10820,8 @@
     "description": "Online Only Auction",
     "locationName": "Tampa Bay, FL",
     "address": "Tampa Bay, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.951683817165424,
+    "lng": -82.45595340030623,
     "saleDate": "2026-03-21",
     "saleDates": [
       "2026-03-21",
@@ -10844,8 +10844,8 @@
     "description": "By Appointment",
     "locationName": "Tarpon Springs, FL",
     "address": "Tarpon Springs, FL, 34688",
-    "lat": null,
-    "lng": null,
+    "lat": 28.139907595247312,
+    "lng": -82.75474799770184,
     "saleDate": "2026-03-21",
     "saleDates": [
       "2026-03-21"
@@ -10869,8 +10869,8 @@
     "description": "Online Only Auction",
     "locationName": "Tampa Bay, FL",
     "address": "Tampa Bay, FL",
-    "lat": null,
-    "lng": null,
+    "lat": 27.94268492204864,
+    "lng": -82.44910636061647,
     "saleDate": "2026-03-22",
     "saleDates": [
       "2026-03-22",
@@ -10893,8 +10893,8 @@
     "description": "Estate Sale",
     "locationName": "Tampa, FL",
     "address": "Tampa, FL, 33647",
-    "lat": null,
-    "lng": null,
+    "lat": 27.958954542476835,
+    "lng": -82.46395244058509,
     "saleDate": "2026-03-27",
     "saleDates": [
       "2026-03-27",

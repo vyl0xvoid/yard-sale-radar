@@ -187,7 +187,7 @@ function saleCard(sale, opts = {}) {
         ${sale.description || ""}
       </div>
       ${priorityBadge}
-      ${sale.sourceUrl ? `<p><a href="${sale.sourceUrl}" target="_blank" rel="noreferrer">View listing</a></p>` : ""}
+      ${sale.sourceUrl && !(sale.sourceType || "").includes("facebook") ? `<p><a href="${sale.sourceUrl}" target="_blank" rel="noreferrer">View listing</a></p>` : ""}
       ${actions}
     </article>
   `;
@@ -282,7 +282,7 @@ function salePopup(sale) {
     ${friendlyDate(sale.saleDate)}${sale.saleTime ? ` &bull; ${sale.saleTime}` : ""}<br />
     ${sale.locationName || sale.address || ""}<br />
     ${hp ? `<strong style="color:#ff6b9d">${hpMatches.join(", ")}</strong><br />` : ""}
-    ${sale.sourceUrl ? `<a href="${sale.sourceUrl}" target="_blank" rel="noreferrer">View listing</a><br />` : ""}
+    ${sale.sourceUrl && !(sale.sourceType || "").includes("facebook") ? `<a href="${sale.sourceUrl}" target="_blank" rel="noreferrer">View listing</a><br />` : ""}
     <div style="margin-top:6px">${colorDots}</div>
   `;
 }
