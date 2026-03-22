@@ -205,6 +205,34 @@ async function collectSearchResults(page, searchUrl) {
   }
 }
 
+const IMG_DIR = path.join(ROOT, "docs", "data", "img");
+
+async function downloadImageViaPage(page, url, itemId) {
+  if (!url) return "";
+  try {
+    if (!fs.existsSync(IMG_DIR)) fs.mkdirSync(IMG_DIR, { recursive: true });
+    const filename = `fb-${itemId}.jpg`;
+    const filepath = path.join(IMG_DIR, filename);
+    if (fs.existsSync(filepath)) return `data/img/${filename}`;
+    // Use the browser's authenticated session to fetch the image
+    const buffer = await page.evaluate(async (imgUrl) => {
+      const resp = await fetch(imgUrl);
+      if (!resp.ok) return null;
+      const blob = await resp.blob();
+      const reader = new FileReader();
+      return new Promise((resolve) => {
+        reader.onload = () => resolve(reader.result.split(",")[1]);
+        reader.readAsDataURL(blob);
+      });
+    }, url);
+    if (!buffer) return "";
+    fs.writeFileSync(filepath, Buffer.from(buffer, "base64"));
+    return `data/img/${filename}`;
+  } catch {
+    return "";
+  }
+}
+
 async function runCollector() {
   // Use real Chrome profile so we're logged into Facebook
   const userDataDir = path.join(
@@ -297,6 +325,7 @@ async function runCollector() {
   const existing = loadJson(SALES_PATH, []);
   const existingUrls = new Set(existing.map(s => s.sourceUrl).filter(Boolean));
   const allNew = [];
+  const fbImageQueue = [];
   let imported = 0;
 
   try {
@@ -306,12 +335,9 @@ async function runCollector() {
       console.log(`[FB] ${decodeURIComponent(shortUrl)}: ${listings.length} results`);
 
       for (const listing of listings) {
-        // Update existing listings that are missing images
-        if (existingUrls.has(listing.sourceUrl) && listing.imageUrl) {
-          const existingSale = existing.find(s => s.sourceUrl === listing.sourceUrl);
-          if (existingSale && !existingSale.imageUrl) {
-            existingSale.imageUrl = listing.imageUrl;
-          }
+        // Track FB image URLs for downloading later
+        if (listing.imageUrl && listing.itemId) {
+          fbImageQueue.push({ itemId: listing.itemId, imageUrl: listing.imageUrl, sourceUrl: listing.sourceUrl });
         }
         if (existingUrls.has(listing.sourceUrl)) continue;
         if (containsBlockedTerms(`${listing.title} ${listing.location}`)) continue;
@@ -337,7 +363,7 @@ async function runCollector() {
           highPriorityMatches: matches,
           status: "active",
           sourceType: "facebook",
-          imageUrl: listing.imageUrl || "",
+          imageUrl: "",
           confidence: 0.6,
         };
 
@@ -349,11 +375,39 @@ async function runCollector() {
       // Be polite — long pause between different searches
       await humanPause(page, 3000, 6000);
     }
+
+    // Download images using the browser session (FB CDN requires auth)
+    const allSales = [...allNew, ...existing];
+    const salesById = new Map();
+    allSales.forEach(s => {
+      if (s.id) salesById.set(s.id, s);
+      if (s.sourceUrl) salesById.set(s.sourceUrl, s);
+    });
+
+    let imgCount = 0;
+    const uniqueImages = new Map();
+    for (const item of fbImageQueue) {
+      if (!uniqueImages.has(item.itemId)) uniqueImages.set(item.itemId, item);
+    }
+
+    console.log(`[FB] Downloading ${uniqueImages.size} images...`);
+    for (const [itemId, item] of uniqueImages) {
+      const localPath = await downloadImageViaPage(page, item.imageUrl, itemId);
+      if (localPath) {
+        // Update the sale record with local image path
+        const sale = salesById.get(item.sourceUrl) || salesById.get(`fb-${itemId}`);
+        if (sale) {
+          sale.imageUrl = localPath;
+          imgCount++;
+        }
+      }
+    }
+    console.log(`[FB] Downloaded ${imgCount} images.`);
+
   } finally {
     await context.close().catch(() => {});
   }
 
-  // Always save — might have updated images on existing listings
   const merged = [...allNew, ...existing];
   saveJson(SALES_PATH, merged);
 

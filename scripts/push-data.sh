@@ -12,7 +12,7 @@ if git diff --quiet docs/data/sales.json 2>/dev/null; then
   exit 0
 fi
 
-git add docs/data/sales.json
+git add docs/data/sales.json docs/data/img/
 git commit -m "update sales data $(date '+%Y-%m-%d %H:%M')"
 git push origin main
 echo "[push-data] Pushed updated sales data"
