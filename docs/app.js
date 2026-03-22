@@ -236,6 +236,13 @@ function getFilteredSales() {
 
   return allSales.filter(sale => {
     if (isDismissed(sale)) return false;
+    // Hide expired dated sales
+    if (sale.saleDate && sale.saleDate < today) return false;
+    // Hide undated sales older than 5 days
+    if (!sale.saleDate && sale.createdAt) {
+      const age = (Date.now() - new Date(sale.createdAt).getTime()) / (1000 * 60 * 60 * 24);
+      if (age > 5) return false;
+    }
 
     if (search) {
       const haystack = `${sale.title} ${sale.description || ""} ${sale.locationName || ""} ${sale.address || ""} ${(sale.tags || []).join(" ")}`.toLowerCase();

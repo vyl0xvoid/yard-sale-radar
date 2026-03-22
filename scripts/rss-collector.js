@@ -486,11 +486,17 @@ async function runCollector() {
   const existingUrls = new Set(existing.map((s) => s.sourceUrl).filter(Boolean));
   const existingIds = new Set(existing.map((s) => s.id).filter(Boolean));
 
-  // Expire sales older than 7 days
-  const cutoff = new Date();
-  cutoff.setDate(cutoff.getDate() - 7);
-  const cutoffStr = cutoff.toISOString().split("T")[0];
-  const kept = existing.filter((s) => !s.saleDate || s.saleDate >= cutoffStr);
+  // Expire sales: dated sales expire day after sale, undated expire 5 days after scrape
+  const today = new Date().toISOString().split("T")[0];
+  const undatedCutoff = new Date();
+  undatedCutoff.setDate(undatedCutoff.getDate() - 5);
+  const undatedCutoffStr = undatedCutoff.toISOString();
+  const kept = existing.filter((s) => {
+    if (s.saleDate) return s.saleDate >= today;
+    // Undated: expire 5 days after creation
+    if (s.createdAt) return s.createdAt >= undatedCutoffStr;
+    return false; // no date and no createdAt = stale, drop it
+  });
   const expired = existing.length - kept.length;
 
   // Collect from all sources in parallel

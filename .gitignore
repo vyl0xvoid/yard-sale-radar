@@ -1,5 +1,10 @@
 node_modules/
 data/*.log
 data/email-log.json
+data/fb-debug.png
 launchd/
 .DS_Store
+.chrome-profile-facebook/
+.chrome-profile-craigslist/
+scripts/fb-debug.js
+scripts/fb-login.js
