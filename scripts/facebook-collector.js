@@ -95,6 +95,111 @@ async function scrollToLoadMore(page, scrolls = 3) {
   }
 }
 
+// Parse dates from description text like "Saturday March 22", "3/22", "this weekend", etc.
+function parseSaleDates(text) {
+  if (!text) return { saleDate: "", saleDates: [], saleTime: "" };
+  const now = new Date();
+  const year = now.getFullYear();
+  const dates = [];
+  let saleTime = "";
+
+  // Match "March 22" or "Mar 22" style
+  const monthNames = ["january","february","march","april","may","june","july","august","september","october","november","december"];
+  const monthShort = ["jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"];
+  const monthRegex = new RegExp(`(${monthNames.join("|")}|${monthShort.join("|")})\\.?\\s+(\\d{1,2})(?:st|nd|rd|th)?`, "gi");
+  let match;
+  while ((match = monthRegex.exec(text)) !== null) {
+    const monthStr = match[1].toLowerCase().slice(0, 3);
+    const monthIdx = monthShort.indexOf(monthStr);
+    if (monthIdx >= 0) {
+      const d = new Date(year, monthIdx, parseInt(match[2]));
+      if (!isNaN(d.getTime())) {
+        dates.push(d.toISOString().split("T")[0]);
+      }
+    }
+  }
+
+  // Match "3/22" or "03/22" style (MM/DD)
+  const slashRegex = /\b(\d{1,2})\/(\d{1,2})(?:\/(\d{2,4}))?\b/g;
+  while ((match = slashRegex.exec(text)) !== null) {
+    const m = parseInt(match[1]) - 1;
+    const d = parseInt(match[2]);
+    const y = match[3] ? (match[3].length === 2 ? 2000 + parseInt(match[3]) : parseInt(match[3])) : year;
+    if (m >= 0 && m < 12 && d > 0 && d <= 31) {
+      const date = new Date(y, m, d);
+      if (!isNaN(date.getTime())) {
+        dates.push(date.toISOString().split("T")[0]);
+      }
+    }
+  }
+
+  // Match time like "8am - 2pm", "8:00 AM - 1:00 PM"
+  const timeMatch = text.match(/\b(\d{1,2}(?::\d{2})?\s*(?:am|pm)\s*[-–to]+\s*\d{1,2}(?::\d{2})?\s*(?:am|pm))/i);
+  if (timeMatch) saleTime = timeMatch[1].trim();
+
+  // Dedupe and sort
+  const unique = [...new Set(dates)].sort();
+
+  return {
+    saleDate: unique[0] || "",
+    saleDates: unique,
+    saleTime,
+  };
+}
+
+async function collectListingDetail(page, url) {
+  try {
+    await page.goto(url, { waitUntil: "domcontentloaded", timeout: 20000 });
+    await humanPause(page, 2000, 3500);
+
+    // Dismiss any popups
+    try {
+      const closeBtn = await page.locator('[aria-label="Close"]').first();
+      if (await closeBtn.isVisible({ timeout: 1000 })) await closeBtn.click();
+    } catch {}
+
+    const detail = await page.evaluate(() => {
+      // Description — FB puts it in various places
+      let description = "";
+      // Look for the listing description section
+      const spans = [...document.querySelectorAll("span")];
+      for (const span of spans) {
+        const text = span.innerText || "";
+        // Description blocks tend to be longer text blocks
+        if (text.length > 40 && text.length < 5000 &&
+            !text.includes("Marketplace") && !text.includes("Buy and sell") &&
+            !text.includes("Log In") && !text.includes("Create new account")) {
+          if (text.length > description.length) {
+            description = text;
+          }
+        }
+      }
+
+      // Get all images on the listing
+      const images = [];
+      const imgs = document.querySelectorAll("img");
+      for (const img of imgs) {
+        const src = img.src || "";
+        // FB listing images come from scontent CDN and are larger
+        if (src.includes("scontent") && img.naturalWidth > 200) {
+          images.push(src);
+        }
+      }
+
+      // Location — look for location-like text near map or location icon
+      let location = "";
+      const locationEl = document.querySelector('[aria-label*="location"], [aria-label*="Located"]');
+      if (locationEl) location = locationEl.innerText || "";
+
+      return { description: description.slice(0, 1500), images, location };
+    });
+
+    return detail;
+  } catch (err) {
+    return { description: "", images: [], location: "" };
+  }
+}
+
 async function collectSearchResults(page, searchUrl) {
   try {
     await page.goto(searchUrl, { waitUntil: "domcontentloaded", timeout: 30000 });
@@ -326,7 +431,10 @@ async function runCollector() {
   const existingUrls = new Set(existing.map(s => s.sourceUrl).filter(Boolean));
   const allNew = [];
   const fbImageQueue = [];
+  const detailQueue = []; // listings that need detail scraping
   let imported = 0;
+
+  const detailPage = await context.newPage();
 
   try {
     for (const searchUrl of SEARCHES) {
@@ -369,12 +477,60 @@ async function runCollector() {
 
         existingUrls.add(listing.sourceUrl);
         allNew.push(sale);
+        detailQueue.push(sale);
         imported++;
       }
 
       // Be polite — long pause between different searches
       await humanPause(page, 3000, 6000);
     }
+
+    // Scrape details for new listings (description, dates, more images)
+    console.log(`[FB] Scraping details for ${detailQueue.length} new listings...`);
+    let detailCount = 0;
+    for (const sale of detailQueue) {
+      const detail = await collectListingDetail(detailPage, sale.sourceUrl);
+      if (detail.description) {
+        const fullText = `${sale.title} ${detail.description}`;
+        sale.description = detail.description.slice(0, 1500);
+
+        // Parse dates from description
+        const dateInfo = parseSaleDates(fullText);
+        if (dateInfo.saleDate) sale.saleDate = dateInfo.saleDate;
+        if (dateInfo.saleDates.length) sale.saleDates = dateInfo.saleDates;
+        if (dateInfo.saleTime) sale.saleTime = dateInfo.saleTime;
+
+        // Re-check tags and priority with full description
+        sale.tags = inferTags(fullText);
+        const matches = getHighPriorityMatches(fullText);
+        if (matches.length) {
+          sale.highPriority = true;
+          sale.highPriorityMatches = matches;
+        }
+
+        // Track extra images for download
+        if (detail.images && detail.images.length) {
+          for (let i = 0; i < detail.images.length && i < 3; i++) {
+            fbImageQueue.push({
+              itemId: `${sale.id.replace("fb-", "")}-${i}`,
+              imageUrl: detail.images[i],
+              sourceUrl: sale.sourceUrl,
+            });
+          }
+        }
+
+        if (detail.location && !sale.locationName) {
+          sale.locationName = detail.location;
+          sale.address = detail.location;
+        }
+
+        detailCount++;
+      }
+      await humanPause(page, 1500, 3000);
+    }
+    console.log(`[FB] Got details for ${detailCount}/${detailQueue.length} listings.`);
+
+    await detailPage.close().catch(() => {});
 
     // Download images using the browser session (FB CDN requires auth)
     const allSales = [...allNew, ...existing];
